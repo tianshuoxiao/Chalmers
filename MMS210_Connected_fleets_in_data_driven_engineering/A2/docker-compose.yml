@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  prime-checker-0:
+    image: registry.git.chalmers.se/tianshuo/opendlv-logic-primechecker:2.1
+    network_mode: "host"
+    command: "/usr/bin/helloworld"
+
