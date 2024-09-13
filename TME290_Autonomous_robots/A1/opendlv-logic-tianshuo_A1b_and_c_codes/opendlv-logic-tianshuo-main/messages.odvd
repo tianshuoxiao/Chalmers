@@ -1,0 +1,6 @@
+message opendlv.proxy.GroundSpeedRequest [id = 1091] {
+  float groundSpeed [id = 1];
+}
+message opendlv.proxy.GroundSpeedReading [id = 1046] {
+  float groundSpeed [id = 1];
+}
