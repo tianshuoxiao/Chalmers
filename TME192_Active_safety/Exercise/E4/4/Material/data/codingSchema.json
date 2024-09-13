@@ -1,0 +1,25 @@
+ {
+	"schema":[
+	{			
+		"variable": "Feet",
+		"categories": [
+				"Not coded",
+				"Unknown or Other",
+				"Rest",
+				"Hovering over brake pedal",
+				"Braking",
+				"Hovering over accelerator pedal",
+				"Accelerating"
+				]
+	},
+	{
+		"variable": "Hands",
+		"categories": [
+				"Not coded",
+				"Unknown or Other",
+				"Hands off wheel",
+				"Hands on wheel"
+				]
+	}
+	]
+}
